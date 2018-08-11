@@ -1,0 +1,6 @@
+jupyter
+ipykernel
+tensorflow-gpu==1.6.0
+scipy
+tqdm
+Pillow
