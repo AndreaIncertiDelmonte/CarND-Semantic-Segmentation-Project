@@ -1,5 +1,5 @@
 
-# CarND Behavioral Cloning Project
+# CarND Semantic Segmentation Project
 My solution of the Udacity Self-Driving Car Engineer Nanodegree Semantic Segmentation project (second project of term 3).
 <br> The goal was to implement the **[Fully Convolutional Network (FCN)](https://arxiv.org/abs/1411.4038)** semantic 
 segmentation network and then train the model to segment road pixels.
